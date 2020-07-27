@@ -1,5 +1,5 @@
 # Ignore config.py
-*.py
+config.py
 
 # Ignore csv files
 *.csv
